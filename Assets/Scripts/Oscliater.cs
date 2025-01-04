@@ -2,8 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-//Hello World 1!
-
 public class Oscliater : MonoBehaviour
 {
     Vector3 startingPosition;

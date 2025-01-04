@@ -4,8 +4,6 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-//Hello World 2!
-
 public class CollisionHandler : MonoBehaviour
 {
     bool collisionEnabled = true;
